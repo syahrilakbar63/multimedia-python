@@ -1,4 +1,4 @@
-# 🎥📊 Manipulasi Video dan Pembuatan GUI
+# 🎥📊 Manipulasi Video dan Pembuatan GUIIrr
 
 ## 🎥 Manipulasi Video dengan MoviePy dan OpenCV
 
